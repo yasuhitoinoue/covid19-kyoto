@@ -34,11 +34,13 @@ window.onload = async function() {
   const ndeath = 0 // data.main_summary.children[0].children[2].value
   const nlight = 0 // data.main_summary.children[0].children[0].children[0].value
   const nheavy = 0 // data.main_summary.children[0].children[0].children[1].value
-  const nexit = 0 // data.main_summary.children[0].children[1].value // == ndischarges + ndeath
+  //const nexit = 0 // data.main_summary.children[0].children[1].value // == ndischarges + ndeath
+  const nexit = 4 // data.main_summary.children[0].children[1].value // == ndischarges + ndeath
 
   main.innerHTML = `
     <table>
       <tr><td>陽性患者数</td><td>${addComma(npatients)}人</td></tr>
+      <tr><td>退院数（退院数/陽性患者数）</td><td>${addComma(nexit)}人(${fixfloat(nexit * 100 / npatients, 2)}%)</td></tr>
       <!--
       <tr><td>検査実施人数</td><td>${addComma(ninspections)}人</td></tr>
       <tr><td>陽性率（陽性患者数/検査実施人数）</td><td>${fixfloat(npatients * 100 / ninspections, 2)}%</td></tr>
