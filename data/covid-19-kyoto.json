@@ -12001,8 +12001,9 @@
     "行動歴": "",
     "退院": "",
     "URL": ""
-  },
-  "patients_summary": {
+        ]
+    },
+    "patients_summary": {
         "date": "2020\/03\/10 00:00",
         "data": [
             {
