@@ -1,6 +1,6 @@
 {
     "patients": {
-        "date": "2020\/03\/21 20:00",
+        "date": "2020\/03\/22 19:00",
         "data": [
   {
     "No": 1,
@@ -307,7 +307,7 @@
     "症状，経過": "",
     "行動歴": "",
     "退院日": "",
-    "URL": "",
+    "URL": "https://www.mhlw.go.jp/content/10906000/000610680.pdf",
     "URL2": "https://www.kyoto-np.co.jp/articles/-/191085"
   },
   {
@@ -321,7 +321,7 @@
     "症状，経過": "3月16日　オランダから帰国",
     "行動歴": "",
     "退院日": "",
-    "URL": "",
+    "URL": "https://www.mhlw.go.jp/content/10906000/000610745.pdf",
     "URL2": "https://www.kyoto-np.co.jp/articles/-/191315"
   }
 ]
