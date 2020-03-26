@@ -1,6 +1,6 @@
 {
     "patients": {
-        "date": "2020\/03\/26 18:00",
+        "date": "2020\/03\/27 7:30",
         "data": [
   {
     "No": 1,
@@ -449,11 +449,39 @@
     "退院日": "",
     "URL": "https://www.pref.kyoto.jp/kentai/news/documents/20200326-32.pdf",
     "URL2": "https://www.kyoto-np.co.jp/articles/-/200361"
+  },
+  {
+    "No": 33,
+    "発表日": "2020-03-26T08:00:00.000Z",
+    "date": "2020-03-26",
+    "short_data": "3/26",
+    "年代・性別": "20代女性・外国籍",
+    "住居地": "京都市",
+    "関連": 23,
+    "症状，経過": "京都府２３例目（京都市14例目）とともに海外出張",
+    "行動歴": "",
+    "退院日": "",
+    "URL": "https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267473/200326oshirase(23).pdf",
+    "URL2": "https://www.kyoto-np.co.jp/articles/-/200839"
+  },
+  {
+    "No": 34,
+    "発表日": "2020-03-26T08:00:00.000Z",
+    "date": "2020-03-26",
+    "short_data": "3/26",
+    "年代・性別": "70代女性",
+    "住居地": "京都市",
+    "関連": "",
+    "症状，経過": "3月13日から発熱症状",
+    "行動歴": "",
+    "退院日": "",
+    "URL": "https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267471/200326oshirase(24).pdf",
+    "URL2": "https://www.kyoto-np.co.jp/articles/-/200839"
   }
 ]
     },
     "patients_summary": {
-        "date": "2020\/03\/26 18:00",
+        "date": "2020\/03\/27 7:30",
         "data": [
             {
                 "日付": "2020-01-24T08:00:00.000Z",
@@ -769,18 +797,18 @@
             {
                 "日付": "2020-03-26T08:00:00.000Z",
                 "退院": 1,
-                "小計": 1
+                "小計": 3
             }            
         ]
     },
-    "lastUpdate": "2020\/03\/26 18:00",
+    "lastUpdate": "2020\/03\/27 7:30",
     "main_summary": {
         "attr": "検査実施人数",
         "value": 974,
         "children": [
             {
                 "attr": "陽性患者数",
-                "value": 32,
+                "value": 34,
                 "children": [
                     {
                         "attr": "症状のない方",
@@ -788,7 +816,7 @@
                     },
                     {
                         "attr": "症状のある方",
-                        "value": 27
+                        "value": 29
                     },
                     {
                         "attr": "退院した方",
