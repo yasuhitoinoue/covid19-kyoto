@@ -1,6 +1,6 @@
 {
     "patients": {
-        "date": "2020\/03\/28 23:00",
+        "date": "2020\/03\/29 21:00",
         "data": [
   {
     "No": 1,
@@ -561,11 +561,67 @@
     "退院日": "",
     "URL": "https://www.pref.kyoto.jp/kentai/news/documents/20200328-38-39-40.pdf",
     "URL2": ""
+  },
+  {
+    "No": 41,
+    "発表日": "2020-03-29T08:00:00.000Z",
+    "date": "2020-03-29",
+    "short_data": "3/29",
+    "年代・性別": "20代男性",
+    "住居地": "京都市",
+    "関連": "41,42,43,44",
+    "症状，経過": "欧州旅行に参加",
+    "行動歴": "",
+    "退院日": "",
+    "URL": "https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267637/200329oshirase(27-30).pdf",
+    "URL2": "https://www.kyoto-np.co.jp/articles/-/203415"
+  },
+  {
+    "No": 42,
+    "発表日": "2020-03-29T08:00:00.000Z",
+    "date": "2020-03-29",
+    "short_data": "3/29",
+    "年代・性別": "20代男性",
+    "住居地": "京都市",
+    "関連": "41,42,43,44",
+    "症状，経過": "ゼミ祝賀会に参加",
+    "行動歴": "",
+    "退院日": "",
+    "URL": "https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267637/200329oshirase(27-30).pdf",
+    "URL2": "https://www.kyoto-np.co.jp/articles/-/203415"
+  },
+  {
+    "No": 43,
+    "発表日": "2020-03-29T08:00:00.000Z",
+    "date": "2020-03-29",
+    "short_data": "3/29",
+    "年代・性別": "20代男性",
+    "住居地": "京都市",
+    "関連": "41,42,43,44",
+    "症状，経過": "ゼミ祝賀会に参加",
+    "行動歴": "",
+    "退院日": "",
+    "URL": "https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267637/200329oshirase(27-30).pdf",
+    "URL2": "https://www.kyoto-np.co.jp/articles/-/203415"
+  },
+  {
+    "No": 44,
+    "発表日": "2020-03-29T08:00:00.000Z",
+    "date": "2020-03-29",
+    "short_data": "3/29",
+    "年代・性別": "20代男性",
+    "住居地": "京都市",
+    "関連": "41,42,43,44",
+    "症状，経過": "ゼミ祝賀会に参加",
+    "行動歴": "",
+    "退院日": "",
+    "URL": "https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267637/200329oshirase(27-30).pdf",
+    "URL2": "https://www.kyoto-np.co.jp/articles/-/203415"
   }
 ]
     },
     "patients_summary": {
-        "date": "2020\/03\/28 23:00",
+        "date": "2020\/03\/29 21:00",
         "data": [
             {
                 "日付": "2020-01-24T08:00:00.000Z",
@@ -892,17 +948,22 @@
                 "日付": "2020-03-28T08:00:00.000Z",
                 "退院": 0,
                 "小計": 5
-            }           
+            },
+            {
+                "日付": "2020-03-29T08:00:00.000Z",
+                "退院": 0,
+                "小計": 4
+            }          
         ]
     },
-    "lastUpdate": "2020\/03\/28 23:00",
+    "lastUpdate": "2020\/03\/29 21:00",
     "main_summary": {
         "attr": "検査実施人数",
         "value": 997,
         "children": [
             {
                 "attr": "陽性患者数",
-                "value": 40,
+                "value": 44,
                 "children": [
                     {
                         "attr": "症状のない方",
@@ -910,7 +971,7 @@
                     },
                     {
                         "attr": "症状のある方",
-                        "value": 34
+                        "value": 38
                     },
                     {
                         "attr": "退院した方",
