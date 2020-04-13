@@ -177,7 +177,7 @@
 29,2020-03-25T08:00:00.000Z,2020-03-25,3/25,30代女性,京都市,,飲食店従業員　軽症,,,https://www.mhlw.go.jp/content/10906000/000613042.pdf,https://www.kyoto-np.co.jp/articles/-/197694
 30,2020-03-25T08:00:00.000Z,2020-03-25,3/25,30代女性,京都市,26,京都府２６例目（京都市17例目）と共にフランス，ルクセンブルクに渡航,,,https://www.mhlw.go.jp/content/10906000/000613043.pdf,https://www.kyoto-np.co.jp/articles/-/197694
 31,2020-03-25T08:00:00.000Z,2020-03-25,3/25,　50代女性,京都市,27,京都府２７例目（京都市18例目）の接触者,,,https://www.mhlw.go.jp/content/10906000/000613044.pdf,https://www.kyoto-np.co.jp/articles/-/197694
-32,2020-03-26T08:00:00.000Z,2020-03-26,3/26,30代男性,乙訓保健所管内,,3月20日に海外留学から帰国．3月24日発熱，3月25日帰国者・接触者相談センターに相談，3月26日に陽性判明,,,https://www.pref.kyoto.jp/kentai/news/documents/20200326-32.pdf,https://www.kyoto-np.co.jp/articles/-/200361
+32,2020-03-26T08:00:00.000Z,2020-03-26,3/26,30代男性,乙訓保健所管内,,3月20日に海外留学から帰国．3月24日発熱，3月25日帰国者・接触者相談センターに相談，3月26日に陽性判明,,2020-04-13,https://www.pref.kyoto.jp/kentai/news/documents/20200326-32.pdf,https://www.kyoto-np.co.jp/articles/-/200361
 33,2020-03-26T08:00:00.000Z,2020-03-26,3/26,20代女性・外国籍,京都市,23,京都府２３例目（京都市14例目）とともに海外出張,,2020-04-02,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267473/200326oshirase(23).pdf,https://www.kyoto-np.co.jp/articles/-/200839
 34,2020-03-26T08:00:00.000Z,2020-03-26,3/26,70代女性,京都市,,3月13日から発熱症状,,2020-04-08,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267471/200326oshirase(24).pdf,https://www.kyoto-np.co.jp/articles/-/200839
 35,2020-03-27T08:00:00.000Z,2020-03-27,3/27,40代男性,大阪府（実家が山城北保健所管内）,,3月21日から左耳痛あり，腫脹あり．23日，24日は実家から通勤,,,https://www.pref.kyoto.jp/kentai/news/documents/20200327-35.pdf,
@@ -185,7 +185,7 @@
 37,2020-03-28T08:00:00.000Z,2020-03-28,3/28,30代女性,京都市,,3月21日に，家族で，イギリスから帰国,,2020-04-08,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267633/200328oshirase(26).pdf,https://www.kyoto-np.co.jp/articles/-/203281
 38,2020-03-28T08:00:00.000Z,2020-03-28,3/28,20代女性,山城北保健所管内,,3月22日　鼻づまり，嗅覚・味覚異常．3月24日咳，痰，頭痛あり．3月27日友人が陽性と分かったので相談,,2020-04-10,https://www.pref.kyoto.jp/kentai/news/documents/20200328-38-39-40.pdf,
 39,2020-03-28T08:00:00.000Z,2020-03-28,3/28,70代女性,山城北保健所管内,35,京都府35例目の母親,,,https://www.pref.kyoto.jp/kentai/news/documents/20200328-38-39-40.pdf,
-40,2020-03-28T08:00:00.000Z,2020-03-28,3/28,40代女性,山城北保健所管内,35,受診医療機関の看護師．現在は症状なし,,,https://www.pref.kyoto.jp/kentai/news/documents/20200328-38-39-40.pdf,
+40,2020-03-28T08:00:00.000Z,2020-03-28,3/28,40代女性,山城北保健所管内,35,受診医療機関の看護師．現在は症状なし,,2020-04-13,https://www.pref.kyoto.jp/kentai/news/documents/20200328-38-39-40.pdf,
 41,2020-03-29T08:00:00.000Z,2020-03-29,3/29,20代男性,京都市,,欧州旅行に参加,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267637/200329oshirase(27-30).pdf,https://www.kyoto-np.co.jp/articles/-/203415
 42,2020-03-29T08:00:00.000Z,2020-03-29,3/29,20代男性,京都市,41,ゼミ祝賀会に参加,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267637/200329oshirase(27-30).pdf,https://www.kyoto-np.co.jp/articles/-/203415
 43,2020-03-29T08:00:00.000Z,2020-03-29,3/29,20代男性,京都市,41,ゼミ祝賀会に参加,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267637/200329oshirase(27-30).pdf,https://www.kyoto-np.co.jp/articles/-/203415
@@ -338,4 +338,9 @@
 190,2020-04-12T08:00:00.025Z,2020-04-12,4/12,50代男性,京都市,,,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268408/200412oshirase(118-137).pdf,
 191,2020-04-12T08:00:00.026Z,2020-04-12,4/12,70代男性,京都市,,,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268408/200412oshirase(118-138).pdf,
 192,2020-04-12T08:00:00.027Z,2020-04-12,4/12,60代男性,京都府下,,調査中,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268408/200412oshirase(118-139).pdf,
-193,2020-04-12T08:00:00.028Z,2020-04-12,4/12,40代男性,京都市,,,,,,
+193,2020-04-12T08:00:00.028Z,2020-04-12,4/12,40代男性,京都市,,,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268408/200412oshirase(118-139).pdf,
+194,2020-04-13T08:00:00.028Z,2020-04-13,4/13,40代男性,山城北保健所管内,,,,,https://www.pref.kyoto.jp/kentai/news/documents/20200413-194-198.pdf,
+195,2020-04-13T08:00:00.029Z,2020-04-13,4/13,40代男性,南丹保健所管内,,,,,https://www.pref.kyoto.jp/kentai/news/documents/20200413-194-198.pdf,
+196,2020-04-13T08:00:00.030Z,2020-04-13,4/13,50代男性,山城北保健所管内,,,,,https://www.pref.kyoto.jp/kentai/news/documents/20200413-194-198.pdf,
+197,2020-04-13T08:00:00.031Z,2020-04-13,4/13,20代女性,山城北保健所管内,,,,,https://www.pref.kyoto.jp/kentai/news/documents/20200413-194-198.pdf,
+198,2020-04-13T08:00:00.032Z,2020-04-13,4/13,40代男性,山城北保健所管内,,,,,https://www.pref.kyoto.jp/kentai/news/documents/20200413-194-198.pdf,
