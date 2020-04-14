@@ -193,13 +193,13 @@
 45,2020-03-29T08:00:00.000Z,2020-03-29,3/29,20代男性,山城北保健所管内,41,ゼミ祝賀会に参加,,,https://www.pref.kyoto.jp/kentai/news/documents/20200329-45.pdf,https://www.kyoto-np.co.jp/articles/-/203415
 46,2020-03-29T08:00:00.000Z,2020-03-29,3/29,20代女性,京都市,27,京都府２７例目（京都市18例目）の接触者,,,https://www.mhlw.go.jp/content/10906000/000615143.pdf,https://www.kyoto-np.co.jp/articles/-/203415
 47,2020-03-29T08:00:00.000Z,2020-03-29,3/29,60代男性,京都市,,3月26日　喉の違和感，3月27日　発熱,,,https://www.mhlw.go.jp/content/10906000/000615144.pdf,https://www.kyoto-np.co.jp/articles/-/203415
-48,2020-03-30T08:00:00.000Z,2020-03-30,3/30,20代女性,乙訓保健所管内,41,ゼミ祝賀会に参加,,,http://www.pref.kyoto.jp/kentai/corona/documents/20200330-48-49.pdf,https://www.kyoto-np.co.jp/articles/-/203720
+48,2020-03-30T08:00:00.000Z,2020-03-30,3/30,20代女性,乙訓保健所管内,41,ゼミ祝賀会に参加,,2020-04-14,http://www.pref.kyoto.jp/kentai/corona/documents/20200330-48-49.pdf,https://www.kyoto-np.co.jp/articles/-/203720
 49,2020-03-30T08:00:00.000Z,2020-03-30,3/30,20代男性,南丹保健所管内,41,ゼミ祝賀会に参加,,2020-04-10,http://www.pref.kyoto.jp/kentai/corona/documents/20200330-48-49.pdf,https://www.kyoto-np.co.jp/articles/-/203720
 50,2020-03-30T08:00:00.000Z,2020-03-30,3/30,20代女性,京都市,41,ゼミ祝賀会に参加,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267699/200330oshirase(33-34).pdf,https://www.kyoto-np.co.jp/articles/-/203730
 51,2020-03-30T08:00:00.000Z,2020-03-30,3/30,20代女性,京都市,41,ゼミ祝賀会に参加,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267699/200330oshirase(33-34).pdf,https://www.kyoto-np.co.jp/articles/-/203730
 52,2020-03-30T08:00:00.000Z,2020-03-30,3/30,20代男性,山城北保健所管内,45,京都府45例目と交流会で接触,,,https://www.pref.kyoto.jp/kentai/news/documents/20200330-52-53-54.pdf,https://www.kyoto-np.co.jp/articles/-/203918
 53,2020-03-30T08:00:00.000Z,2020-03-30,3/30,30代男性,山城北保健所管内,45,京都府45例目と交流会で接触,,,https://www.pref.kyoto.jp/kentai/news/documents/20200330-52-53-54.pdf,https://www.kyoto-np.co.jp/articles/-/203918
-54,2020-03-30T08:00:00.000Z,2020-03-30,3/30,20代男性,山城北保健所管内,45,京都府45例目と交流会で接触,,,https://www.pref.kyoto.jp/kentai/news/documents/20200330-52-53-54.pdf,https://www.kyoto-np.co.jp/articles/-/203918
+54,2020-03-30T08:00:00.000Z,2020-03-30,3/30,20代男性,山城北保健所管内,45,京都府45例目と交流会で接触,,2020-04-14,https://www.pref.kyoto.jp/kentai/news/documents/20200330-52-53-54.pdf,https://www.kyoto-np.co.jp/articles/-/203918
 55,2020-03-30T08:00:00.000Z,2020-03-30,3/30,30代男性,京都市,,沖縄県において発生した患者と接触,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267700/200330oshirase(35).pdf,
 56,2020-03-30T08:00:00.000Z,2020-03-30,3/30,50代女性,京都市,,,,2020-04-07,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267701/200330oshirase(36).pdf,
 57,2020-03-31T08:00:00.000Z,2020-03-31,3/31,20代女性,京都市,41,ゼミ祝賀会に参加,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000267/267768/200331oshirase(37-38).pdf,
@@ -348,6 +348,11 @@
 200,2020-04-13T08:00:00.032Z,2020-04-13,4/13,80代女性,京都市,,京都市罹患者の接触者,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268461/200413oshirase(130-136).pdf,
 201,2020-04-13T08:00:00.032Z,2020-04-13,4/13,80代男性,京都市,,京都市罹患者の接触者,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268461/200413oshirase(130-136).pdf,
 202,2020-04-13T08:00:00.032Z,2020-04-13,4/13,60代男性,京都市,,京都市罹患者の接触者,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268461/200413oshirase(130-136).pdf,
-203,2020-04-13T08:00:00.032Z,2020-04-13,4/13,80代女性,京都市,,京都市罹患者の接触者,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268461/200413oshirase(130-136).pdf,
+203,2020-04-13T08:00:00.032Z,2020-04-13,4/13,80代男性,京都市,,京都市罹患者の接触者,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268461/200413oshirase(130-136).pdf,
 204,2020-04-13T08:00:00.032Z,2020-04-13,4/13,80代女性,京都市,,京都市罹患者の接触者,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268461/200413oshirase(130-136).pdf,
-205,2020-04-13T08:00:00.032Z,2020-04-13,4/13,80代男性,京都市,,京都市125例目罹患者の接触者,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268461/200413oshirase(130-136).pdf,
+205,2020-04-13T08:00:00.032Z,2020-04-13,4/13,80代男性,京都市,,京都市125例目の接触者,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268461/200413oshirase(130-136).pdf,
+206,2020-04-14T08:00:00.032Z,2020-04-14,4/14,70代女性,山城北保健所管内,90,京都府90例目の接触者,,,https://www.pref.kyoto.jp/kentai/news/documents/20200417-206-207.pdf,
+207,2020-04-14T08:00:00.032Z,2020-04-14,4/14,40代男性,山城北保健所管内,,他府県罹患者と接触者,,,https://www.pref.kyoto.jp/kentai/news/documents/20200417-206-207.pdf,
+,2020-04-14T08:00:00.032Z,2020-04-14,4/14,80代女性,京都市,,京都市罹患者の接触者,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268616/200414oshirase(137-139).pdf,
+,2020-04-14T08:00:00.032Z,2020-04-14,4/14,30代女性,京都市,,発症日まで東京都滞在,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268616/200414oshirase(137-139).pdf,
+,2020-04-14T08:00:00.032Z,2020-04-14,4/14,40代男性,京都市,,,,,https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000268/268616/200414oshirase(137-139).pdf,
