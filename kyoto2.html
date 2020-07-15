@@ -13,25 +13,16 @@ window.onload = async function() {
   console.log(data)
   dump(data)
   
-  const calcSum = (data) => data.reduce((acc, val) => acc + parseInt(val['小計']), 0)
-  /*
-  const calcSum = function(data) {
-    let sum = 0
-    for (const d of data) {
-      sum += d['小計']
-    }
-    return sum
-  }
-  */
+  //const calcSum = (data) => data.reduce((acc, val) => acc + parseInt(val['小計']), 0)
     
   const ncontacts = 0 // calcSum(data.contacts.data)
   const nquerents = 0 // calcSum(data.querents.data)
-  const npatients = data.main_summary.children[0].value //data.patients.data.length
+  const npatients = 0 //main_summary.value //data.patients.data.length
   const npatients2 = 0 // calcSum(data.patients_summary.data) // to check
   //const ndischarges = data.discharges.data.length
   //const ndischarges2 = calcSum(data.discharges_summary.data) // to check
   
-  const ninspections = data.main_summary.value // new!
+  const ninspections = main_summary.value // new!
   const ndeath = 0 // data.main_summary.children[0].children[2].value
   const nlight = data.main_summary.children[0].children[0].value
   const nheavy = data.main_summary.children[0].children[1].value
